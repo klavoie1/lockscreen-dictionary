@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="dict_word">Example Word</string>
+    <string name="dict_part_of_speech">Part of Speech</string>
+    <string name="dict_definition">Definition of the word is what will be placed here for the ease of viewing.</string>
+</resources>
